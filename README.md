@@ -9,12 +9,12 @@ It comes in handy when you are away from your computer and you forgot to lock yo
 ## Usage
 
 ### Dependencies
-	- [ngrok] (https://ngrok.com/) - Download and put the executable (ngrok.exe) in `local/batch-files` 
-	- PHP - Add php.exe in environment variables.
-	- Python - Add python.exe in environment variables.
+- [ngrok](https://ngrok.com/) - Download and put the executable (ngrok.exe) in `local/batch-files` 
+- PHP - Add php.exe in environment variables.
+- Python - Add python.exe in environment variables.
 
 ### Installation
-	1. Download the repository and copy the contents of `local` folder on your computer and run the scripts in `batch-files`.  
+1. Download the repository and copy the contents of `local` folder on your computer and run the scripts in `batch-files`.  
 
 # Licence
 
