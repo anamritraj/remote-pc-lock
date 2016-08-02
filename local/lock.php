@@ -1,5 +1,4 @@
 <?php
-
 if(exec("python python-scripts/lock.py")){
 	echo '{
 		"success" : 1
