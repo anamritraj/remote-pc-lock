@@ -1,1 +1,1 @@
-ngrok http --auth username:password 5000
+C:\Users\Apoorva\ngrok-stable-windows-amd64\ngrok.exe http --auth dave:apoorva 5000
