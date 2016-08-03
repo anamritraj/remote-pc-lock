@@ -1,2 +1,2 @@
-cd C:\xampp\htdocs
-php -S localhost:5000
+cd ..
+-php -S localhost:5000
