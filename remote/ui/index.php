@@ -83,7 +83,7 @@
 			'user_key' : password
 		};
 
-		var url = "yourdomain.com";
+		url = window.location.host;
 
 		$.ajax({
 		  type: "POST",
