@@ -1,4 +1,4 @@
-python %~dp0\autostart.py
-pause
+python %~dp0..\python-scripts\autostart.py
+
 
 

@@ -30,7 +30,7 @@
 		    return 0;
 		}	
 	}
-	function update_url($username, $password, $url,$connection)
+	function update_url($username, $password, $url, $connection)
 	{
 		if (validate_user($username, $password, $connection)) {
 			// Correct username and password!

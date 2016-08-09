@@ -2,6 +2,7 @@
 
 	$user = $_POST['user'];
 	$user_key = $_POST['user_key'];
+	$url = $_POST['url'];
 
 
 	$servername = "your.server.name";

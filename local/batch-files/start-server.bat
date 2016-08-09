@@ -1,2 +1,2 @@
 cd ..
--php -S localhost:5000
+php -S localhost:5000
