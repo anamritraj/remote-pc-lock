@@ -60,16 +60,13 @@
 	</div>
 </div>
 
-<!-- Ab thoda javascript likhte! ok -->
-
-
 
 <!-- scripts -->
 <script src="assets/js/jquery.js"></script>
 <script src="assets/js/bootstrap.js"></script>
 
 <script>
-// simple walal likhte :P
+
 
 	var login_form = $("#login-form");
 
@@ -83,11 +80,11 @@
 			'user_key' : password
 		};
 
-		var url = "yourdomain.com";
+		url = window.location.origin + '/';
 
 		$.ajax({
 		  type: "POST",
-		  url: url+'/get_url.php',
+		  url: url+'get_url.php',
 		  data: data,
 		  success: function(result){
 		  	// console.log(result);
